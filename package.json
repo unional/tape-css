@@ -54,7 +54,7 @@
     "tap-spec": "2.2.2",
     "tape": "4.2.0",
     "tape-catch": "1.0.4",
-    "webpack": "1.12.2"
+    "webpack": "5.94.0"
   },
   "files": [
     "/*.js",
